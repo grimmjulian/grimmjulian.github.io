@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   description: "A blog built with Quarto"
@@ -9,13 +10,13 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: blog/index.qmd
-        text: writing
+      # - href: blog/index.qmd
+      #   text: writing
     right:
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/grimmjulian
+      - icon: linkedin
+        href: https://www.linkedin.com/in/grimmjulian225/
 format:
   html:
     theme:

@@ -1,5 +1,5 @@
 ---
-title: "Julian Grimm"
+# title: "Julian Grimm"
 listing:
   contents: posts
   feed: true

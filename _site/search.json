@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "home",
     "section": "",
-    "text": "asdfAbout this blog"
+    "text": "I am Julian, and I have a lot to say about R, Nix and Developer Experience."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -46,6 +46,6 @@
     "href": "blog/index.html",
     "title": "Julian Grimm",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 24, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 21, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   }
 ]

@@ -1,16 +1,16 @@
 ---
-title: "About"
+title: "home"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/grimmjulian
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/grimmjulian225
 
 ---
 
-asdfAbout this blog
+I am Julian, and I have a lot to say about R, Nix and Developer Experience.
