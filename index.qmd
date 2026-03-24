@@ -9,7 +9,7 @@ about:
       href: https://github.com/grimmjulian
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/grimmjulian225
+      href: https://www.linkedin.com/in/grimmjulian225/
 
 ---
 
