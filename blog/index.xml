@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>Julian Grimm</title>
-<link>https://your-website-url.example.com/blog/</link>
-<atom:link href="https://your-website-url.example.com/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://grimmjulian.github.io/blog/</link>
+<atom:link href="https://grimmjulian.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 24 Mar 2026 17:21:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 17:34:59 GMT</lastBuildDate>
 </channel>
 </rss>
