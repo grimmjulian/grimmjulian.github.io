@@ -13,4 +13,4 @@ about:
 
 ---
 
-I am Julian, and I have a lot to say about R, Nix and Developer Experience.
+I am Julian, and I want to talk about R, Nix and Developer Experience.
