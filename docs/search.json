@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "home",
     "section": "",
-    "text": "I am Julian, and I have a lot to say about R, Nix and Developer Experience."
+    "text": "I am Julian, and I want to talk about R, Nix and Developer Experience.\n\n\n\n\n\n⚙️\n\n\nR Process Optimization\nTransform slow, memory-hungry scripts into lean, high-performance pipelines. From vectorization and parallelization to profiling bottlenecks — I help your R code run faster and scale further.\n\nprofiling parallelization memory\n\n\n\n\n\n📦\n\n\nR Package Development\nTurn your analysis or toolset into a robust, documented, and tested R package — ready for CRAN or internal distribution. Clean APIs, proper S3/S4 design, and full testthat coverage.\n\nCRAN-ready roxygen2 testthat\n\n\n\n\n\n✨\n\n\nShiny App Development\nBuild reactive, production-grade Shiny applications your stakeholders will actually want to use. From data explorers to operational dashboards — clean UI, modular structure, and deployment-ready.\n\nmodules deployment bslib"
   },
   {
     "objectID": "blog/index.html",

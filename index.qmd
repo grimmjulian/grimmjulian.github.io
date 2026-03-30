@@ -14,3 +14,42 @@ about:
 ---
 
 I am Julian, and I want to talk about R, Nix and Developer Experience.
+
+<!-- Services Section -->
+::: {.services-section}
+
+:::: {.services-grid}
+
+::::: {.service-card}
+<div class="service-icon">⚙️</div>
+### R Process Optimization
+Transform slow, memory-hungry scripts into lean, high-performance pipelines. From vectorization and parallelization to profiling bottlenecks — I help your R code run faster and scale further.
+
+::: {.service-tags}
+[profiling]{.tag} [parallelization]{.tag} [memory]{.tag}
+:::
+:::::
+
+::::: {.service-card}
+<div class="service-icon">📦</div>
+### R Package Development
+Turn your analysis or toolset into a robust, documented, and tested R package — ready for CRAN or internal distribution. Clean APIs, proper S3/S4 design, and full `testthat` coverage.
+
+::: {.service-tags}
+[CRAN-ready]{.tag} [roxygen2]{.tag} [testthat]{.tag}
+:::
+:::::
+
+::::: {.service-card}
+<div class="service-icon">✨</div>
+### Shiny App Development
+Build reactive, production-grade Shiny applications your stakeholders will actually want to use. From data explorers to operational dashboards — clean UI, modular structure, and deployment-ready.
+
+::: {.service-tags}
+[modules]{.tag} [deployment]{.tag} [bslib]{.tag}
+:::
+:::::
+
+::::
+
+:::
