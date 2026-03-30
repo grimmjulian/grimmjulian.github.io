@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "!CLAUDE.md"
 
 website:
   description: "A blog built with Quarto"
