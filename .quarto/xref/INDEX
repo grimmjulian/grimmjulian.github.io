@@ -19,5 +19,8 @@
   },
   "blog/index.qmd": {
     "index.html": "3b3aeb87"
+  },
+  "CLAUDE.md": {
+    "CLAUDE.html": "f447ac45"
   }
 }

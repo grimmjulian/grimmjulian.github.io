@@ -13,7 +13,7 @@ about:
 
 ---
 
-I am Julian, and I want to talk about R, Nix and Developer Experience.
+I help R users ship production-ready code — so your team spends less time debugging and more time on analysis.
 
 <!-- Services Section -->
 ::: {.services-section}
@@ -22,18 +22,18 @@ I am Julian, and I want to talk about R, Nix and Developer Experience.
 
 ::::: {.service-card}
 <div class="service-icon">⚙️</div>
-### R Process Optimization
-Transform slow, memory-hungry scripts into lean, high-performance pipelines. From vectorization and parallelization to profiling bottlenecks — I help your R code run faster and scale further.
+### R Developer Experience
+**R** should work for you, not the other way around. I help you make your code production-grade — so you spend less time firefighting and more time doing the work that actually matters.
 
 ::: {.service-tags}
-[profiling]{.tag} [parallelization]{.tag} [memory]{.tag}
+[AI tooling]{.tag} [git]{.tag} [testing]{.tag} [CI/CD]{.tag} [auto-reporting]{.tag} [reproducibility]{.tag}
 :::
 :::::
 
 ::::: {.service-card}
 <div class="service-icon">📦</div>
 ### R Package Development
-Turn your analysis or toolset into a robust, documented, and tested R package — ready for CRAN or internal distribution. Clean APIs, proper S3/S4 design, and full `testthat` coverage.
+Turn your analysis or toolset into a robust, documented, and tested **R** package — ready for CRAN or internal distribution. Clean APIs, proper OOP design, and full test coverage.
 
 ::: {.service-tags}
 [CRAN-ready]{.tag} [roxygen2]{.tag} [testthat]{.tag}
@@ -53,3 +53,5 @@ Build reactive, production-grade Shiny applications your stakeholders will actua
 ::::
 
 :::
+
+Ready to reduce friction in your R workflow? [Let's talk on LinkedIn →](https://www.linkedin.com/in/grimmjulian225/)
