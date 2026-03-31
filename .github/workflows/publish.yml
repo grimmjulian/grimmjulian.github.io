@@ -16,7 +16,7 @@ jobs:
         uses: cachix/install-nix-action@v26
 
       - name: Render site
-        run: nix develop --command quarto render
+        run: nix develop .#ci --command quarto render
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
