@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://grimmjulian.github.io/CLAUDE.html</loc>
+    <lastmod>2026-03-31T05:12:13.926Z</lastmod>
+  </url>
+  <url>
     <loc>https://grimmjulian.github.io/blog/index.html</loc>
-    <lastmod>2026-03-24T17:34:03.641Z</lastmod>
+    <lastmod>2026-03-31T05:12:13.936Z</lastmod>
   </url>
   <url>
     <loc>https://grimmjulian.github.io/index.html</loc>
-    <lastmod>2026-03-24T17:34:03.648Z</lastmod>
+    <lastmod>2026-03-31T05:12:13.942Z</lastmod>
   </url>
 </urlset>
