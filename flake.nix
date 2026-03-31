@@ -25,6 +25,13 @@
         };
       in
       {
+        devShells.ci = pkgs.mkShell {
+          packages = with pkgs; [
+            quarto
+            git
+          ];
+        };
+
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             quarto
@@ -36,7 +43,7 @@
           shellHook = ''
             echo "Quarto $(quarto --version) ready"
 
-            if [ -z "$CI" ] && [ -z "$TMUX" ]; then
+            if [ -z "$TMUX" ]; then
               SESSION="homepage"
 
               if ! tmux has-session -t $SESSION 2>/dev/null; then
