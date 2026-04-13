@@ -1,0 +1,56 @@
+---
+title: "cv"
+toc: false
+format:
+  html:
+    toc: false
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/grimmjulian
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/grimmjulian225/
+---
+
+## What I Do
+
+I am a **R** developer that helps analysts and data teams reduce friction. I use **R** to build scripts, packages and Shiny applications that make software work *for* people instead of against them. My focus: code quality, maintainability, and making R accessible.
+
+---
+
+## Experience
+
+### Software Developer — functionHR
+**Nov. 2022 - Sept. 2025**
+
+- I translated business logic to **R** using R6 classes.
+- I automated the validation of 40 different client input. A report with all problematic entries created.
+- Shiny, tidyverse
+
+### Biostatistician - AMS Advanced Medical Services
+**Juli 2020 - Oct. 2022**
+
+- Automatic table and report generation
+- Statistical data evaluation and analysis
+
+### M.Sc. Mathematics in Biosciences - TU Munich
+**June 2020**
+
+- Mathematical modelling
+- Dynamic systems
+- Statistical analysis
+
+---
+
+## Technical Skills
+
+- **Languages**: R, SQL, lua, Nix
+- **Packages & Tools**: tidyverse, Shiny, data.table, neovim, NixOS
+- **Practices**: Code review, testing, CI/CD
+
+---
+
+

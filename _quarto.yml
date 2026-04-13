@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: home
+      - href: cv.qmd
+        text: cv
       # - href: blog/index.qmd
       #   text: writing
     right:
